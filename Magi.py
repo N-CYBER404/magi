@@ -76,11 +76,11 @@ logo = """
 \033[1;92m   ║ r ║♫♪  
 \033[1;92m   ║ ◎♫♪♫   [♫] HACKERS BANGLADESH [♫]  
 \033[1;92m╔══0═══0═════00o═══════════════════════════╗  
-\033[1;92m║✯AUTHOR   : Mr. NIKI                        ║  
-\033[1;92m║✯YOUTUBE  : JAMES NIKI                      ║  
-\033[1;92m║✯FACEBOKK : Niki.Cyber404                   ║  
-\033[1;92m║✯WHATSAPP : +8801927294533                  ║   
-\033[1;92m║✯GITHUB   : Niki-Cyber404                   ║  
+\033[1;92m║✯AUTHOR   : Mr. NIKI                       ║  
+\033[1;92m║✯YOUTUBE  : JAMES NIKI                     ║  
+\033[1;92m║✯FACEBOKK : Niki.Cyber404                  ║  
+\033[1;92m║✯WHATSAPP : +8801927294533                 ║   
+\033[1;92m║✯GITHUB   : Niki-Cyber404                  ║  
 \033[1;92m╚═════════════════════════════════════════╝   
 \033[1;96m-----------------------------------------------
 
