@@ -71,17 +71,17 @@ c3 = "\033[1;91m"
 logo = """                                          
 
 
-
-\033[1;92m╔══╗ ♫♪    
-\033[1;92m║██║ ♪♪   
-\033[1;92m║██║♫♪  
-\033[1;92m║  ◎♫♪♫   [♫] HACKERS BANGLADESH [♫]  
-\033[1;92m╚o00╝═════════00o═════════════════════════╗  
-\033[1;92m║✯Author : Mr. NIKI║  
-\033[1;92m║✯YouTube : JAMES NIKI ║  
-\033[1;92m║✯Facebook : Niki.Cyber404 ║  
-\033[1;92m║✯WhatsApp : +8801927294533 ║   
-\033[1;92m║✯GitHub : Niki-Cyber404 ║  
+\033[1;92m   _/π\_
+\033[1;92m   ╔0═0╗ ♫♪    
+\033[1;92m   ║██ ║ ♪♪   
+\033[1;92m   ║██ ║♫♪  
+\033[1;92m   ║ ◎♫♪♫   [♫] HACKERS BANGLADESH [♫]  
+\033[1;92m╔══0═══0═════00o═══════════════════════════╗  
+\033[1;92m║✯AUTHOR   : Mr. NIKI                            ║  
+\033[1;92m║✯YOUTUBE  : JAMES NIKI                          ║  
+\033[1;92m║✯FACEBOKK : Niki.Cyber404                       ║  
+\033[1;92m║✯WHATSAPP : +8801927294533                      ║   
+\033[1;92m║✯GITHUB   : Niki-Cyber404                       ║  
 \033[1;92m╚═════════════════════════════════════════╝   
 \033[1;96m-----------------------------------------------
 
@@ -101,11 +101,11 @@ def main():
 
     print("")
 
-    print("\033[1;97m[1]\033[1;92m > \033[1;97mCLONE PUBLIC ID WITH B-API")
+    print("\033[1;97m[1]\033[1;92m > \033[1;92m PUBLIC ID WITH B-API")
 
     print("")
 
-    print("\033[1;92m[0]\033[1;91m > \033[1;97mLOGOUT TOOLS")
+    print("\033[1;92m[0]\033[1;91m > \033[1;92mLOGOUT TOOLS")
 
     print("")
 
@@ -113,7 +113,7 @@ def main():
 
 def main_select():
 
-    Niki = raw_input("\033[1;92m[!] Select --->\033[1;96m ")
+    Niki = raw_input("\033[1;92m[!] Select --->\033[1;92m ")
 
     if Niki  =="1":
 
@@ -125,7 +125,7 @@ def main_select():
 
 	main()  
 
-    elif Abdullah =="0":
+    elif Niki =="0":
 
         os.system("exit")
 
@@ -149,15 +149,15 @@ def login():
 
     print("")
 
-    print("\033[1;92m[1]\033[1;91m > \033[1;97mLOGIN USING TOKEN")
+    print("\033[1;92m[1]\033[1;91m > \033[1;92mLOGIN USING TOKEN")
 
     print("")
 
-    print("\033[1;92m[2]\033[1;91m > \033[1;97mLOGIN USING PASSWORD")
+    print("\033[1;92m[2]\033[1;91m > \033[1;92mLOGIN USING PASSWORD")
 
     print("")
 
-    print("\033[1;92m[3]\033[1;91m > \033[1;97mMAIN MENU BACK")
+    print("\033[1;92m[3]\033[1;91m > \033[1;92mMAIN MENU BACK")
 
     print("")
 
@@ -368,19 +368,19 @@ def menu():
 
     print("")
 
-    print("\033[1;92m[1]\033[1;91m > \033[1;97mCrack From Friendlist")
+    print("\033[1;92m[1]\033[1;92m > \033[1;92mCrack From Friendlist")
 
     print("")
 
-    print("\033[1;92m[2]\033[1;91m > \033[1;97mCrack From Public id")
+    print("\033[1;92m[2]\033[1;92m > \033[1;97mCrack From Public id")
 
     print("")
 
-    print("\033[1;92m[3]\033[1;91m > \033[1;97mCrack From Followers id")
+    print("\033[1;92m[3]\033[1;92m > \033[1;97mCrack From Followers id")
 
     print("")
 
-    print("\033[1;92m[0]\033[1;91m > \033[1;97mLOGOUT")
+    print("\033[1;92m[0]\033[1;92m > \033[1;97mLOGOUT")
 
     print("")
 
